@@ -1,0 +1,1 @@
+{"name":"Local: 210041220_T11L01_2B","url":"d:\\Lab Task\\DS Lab task\\Lab 2\\210041220_T11L01_2B.cpp","tests":[{"id":1693135556291,"input":"7 5\n2 1 1 4 3 3 1\n3 2 1 1 4","output":"5 2 3 1 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Lab Task\\DS Lab task\\Lab 2\\210041220_T11L01_2B.cpp","group":"local","local":true}
